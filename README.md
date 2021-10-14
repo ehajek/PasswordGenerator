@@ -1,7 +1,7 @@
 # PasswordGenerator
 
-
-
+This is a workup of the Password Generator. <br> 
+The project plan is to follow the following criteria; 
 
     GIVEN I need a new, secure password
     WHEN I click the button to generate a password
@@ -18,3 +18,22 @@
     THEN a password is generated that matches the selected criteria
     WHEN the password is generated
     THEN the password is either displayed in an alert or written to the page
+
+## Mockup Image
+
+The website mockup image loaction is "./passwordgenmock.png" 
+
+
+## Sample Site
+
+The sample site for the PasswordGenerator Homepage is lockated at "https://ehajek.github.io/PasswordGenerator/". 
+
+## GitHub Repository 
+
+The name of the Password Generator GitHub repository is "PasswordGenerator" at the URL of "https://github.com/ehajek/PasswordGenerator". 
+
+--- 
+
+Eddie Hajek <br>
+ehajek@outlook.com <br> 
+2021.10.14 <br>
