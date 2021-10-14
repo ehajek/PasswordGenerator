@@ -29,7 +29,8 @@ generateBtn.addEventListener("click", function () {
   var pwrdFinal = [];
   pwrdLength = window.prompt("Enter the number of random password characters you would like (between 8 and 128 required).");
   if (pwrdLength < 8 || pwrdLength > 128 || isNaN(pwrdLength)) {
-    alert("Must be numbrer between 8 and 128");
+    window.alert("Must be numbrer between 8 and 128");
+    process.exit();
   }
   pwrdSpecials = window.confirm("Would you like to use Speical Characters?")
   pwrdLowerCase = window.confirm("Would you like to use Lower Case Letters?")
